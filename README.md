@@ -1,12 +1,11 @@
-# Mercado_Livre_Interface
+#Clone do Mercado Livre
 
-Clone do Mercado Livre
+*Estudantes: Leanderson Ferreira, Vicenzo Gabriel*
 
 Este é um projeto front-end desenvolvido com o objetivo de recriar a interface do site do Mercado Livre utilizando HTML e CSS.
-
 O projeto foi feito para praticar estruturação de layout, organização de código e estilização de componentes.
 
-Tecnologias utilizadas
+**Tecnologias utilizadas**
 
 HTML5
 
@@ -16,7 +15,7 @@ Tailwind CSS (CDN)
 
 Font Awesome
 
-Funcionalidades implementadas
+**Funcionalidades implementadas**
 
 Header com barra de pesquisa
 
@@ -30,12 +29,12 @@ Mercado Play
 
 Footer completo
 
-Como executar
+**Como executar**
 
 Baixe ou clone o repositório
 
 Abra o arquivo index.html no navegador
 
-Observação
+**Observação**
 
 Este projeto foi desenvolvido apenas para fins de estudo e prática.
